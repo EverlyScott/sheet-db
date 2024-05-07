@@ -1,0 +1,28 @@
+{
+  "name": "sheet-db",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "^5.15.16",
+    "@mui/material": "latest",
+    "@mui/material-nextjs": "latest",
+    "fuse.js": "^7.0.0",
+    "next": "latest",
+    "pocketbase": "^0.21.2",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  }
+}
